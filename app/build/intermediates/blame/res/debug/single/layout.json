@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/syarif/workspace/android-udp-audio-chat/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/syarif/workspace/android-udp-audio-chat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/syarif/workspace/android-udp-audio-chat/app/build/intermediates/res/merged/debug/layout/activity_make_call.xml",
+        "source": "/home/syarif/workspace/android-udp-audio-chat/app/src/main/res/layout/activity_make_call.xml"
+    },
+    {
+        "merged": "/home/syarif/workspace/android-udp-audio-chat/app/build/intermediates/res/merged/debug/layout/activity_receive_call.xml",
+        "source": "/home/syarif/workspace/android-udp-audio-chat/app/src/main/res/layout/activity_receive_call.xml"
+    }
+]
